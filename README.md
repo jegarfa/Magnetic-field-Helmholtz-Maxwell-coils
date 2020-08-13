@@ -5,3 +5,6 @@ Code to compute the magnetic field of Helmholtz and Maxwell coils using the fini
 This Jupyter notebook reproduce all figures of the paper **"Exploring the magnetic field of Helmholtz and Maxwell coils: a computer-based approach exploiting the superposition principle"** by García-Farieta & Hurtado (2020) published in Revista Brasileira De Ensino De Física - RBEF.
 
 Please free fell to use, re-use, modify and distribute this code for your own purposes under the MIT Licence.
+Remember to cite "Exploring the magnetic field of Helmholtz and Maxwell coils: a computer-based approach exploiting the superposition principle" by García-Farieta & Hurtado (2020) - Revista Brasileira De Ensino De Física - RBEF.
+
+
